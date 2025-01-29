@@ -11,7 +11,7 @@ The dataset used in this project is the Breast Cancer dataset, available in the 
 
 Components
 
-1. Loading and Preprocessing (2 marks)
+1. Loading and Preprocessing 
 
 Steps:
 
@@ -27,7 +27,7 @@ Purpose:
 
 Preprocessing ensures that all features are on the same scale, which is essential for optimal performance of many machine learning algorithms.
 
-2. Classification Algorithm Implementation (5 marks)
+2. Classification Algorithm Implementation 
 
 The following classification algorithms were implemented:
 
@@ -61,7 +61,7 @@ A non-parametric method that classifies data points based on the majority class 
 
 Simple and intuitive for classification tasks.
 
-3. Model Comparison (2 marks)
+3. Model Comparison 
 
 Evaluation Metrics:
 
@@ -75,9 +75,6 @@ Models were ranked based on their accuracy.
 
 A bar plot visualized the comparison of accuracies across models.
 
-4. Timely Submission (1 mark)
-
-The project is submitted on time in the required Jupyter Notebook format.
 
 Results
 
